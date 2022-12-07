@@ -1,0 +1,244 @@
+body{
+    margin: 0 auto;
+    max-width: 1370px;
+    background-color: white;
+}
+
+p, h3{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_container, .second_container, .third_container{
+   
+    background-color: rgb(0, 0, 0);
+
+}
+
+.main_container{
+    padding-top: 10px;
+}
+
+.apple{
+    display: inline-block;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.iphone{
+    font-size: 34px;
+    letter-spacing: 0px;
+    line-height: 28px;
+    color: #f5f5f7;
+    font-weight: 500;
+}
+
+.beyond{
+    margin: 0;
+    font-size: 60px;
+    letter-spacing: 0px;
+    line-height: 44px;
+    color: #f5f5f7;
+    font-weight: 600;
+}
+
+.from{
+    margin-top: 40px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.details{
+    margin-top: 5px;
+
+}
+
+.buy_container{
+    margin-top: 40px;
+}
+
+.buy, .buy:hover{
+    margin: 0 auto;
+    display: block;
+    cursor: pointer;
+    width: 85px;
+    padding: 10px;
+    border-radius: 40px;
+    color: white;
+    background-color: rgb(0, 38, 255);
+    font-size: 18px
+}
+
+.learn{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #0066cc;
+}
+
+.learn:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.picture{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+/**SECOND**/
+
+.second_container{
+    padding-top: 100px;
+    background-color: #f5f5f7;
+}
+
+.iphone2, .beyond2, .from2, .details2{
+    color: black;
+} 
+
+.iphone2{
+    font-size: 34px;
+    letter-spacing: 0px;
+    line-height: 28px;
+    color: #1d1d1f;
+    font-weight: 500;
+}
+
+.beyond2{
+    margin: 0;
+    font-size: 60px;
+    letter-spacing: 0px;
+    line-height: 44px;
+    color: #1d1d1f;
+    font-weight: 600;
+}
+
+.from2{
+    color: #1d1d1f;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.details2{
+    margin-top: 5px;
+}
+
+
+.buy2, .buy2:hover{
+    border-color: rgb(0, 38, 255);
+    background-color: rgb(0, 38, 255);
+    margin: 0 auto;
+    display: block;
+    cursor: pointer;
+    width: 85px;
+    padding: 10px;
+    border-radius: 40px;
+    color: white;
+    font-size: 18px;
+}
+
+.picture2{
+    border-radius: 40px;
+    width: 100%;
+}
+
+/**THIRD**/
+
+.third_container{
+    padding-top: 40px;
+    background-color: white;
+}
+
+.which{
+    font-size: 52px;
+    letter-spacing: 0px;
+    line-height: 36px;
+    font-weight: 600;
+    color: #1d1d1f;
+    margin-bottom: 30px;
+}
+
+.compare{
+    margin-top: 0px;
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 27px;
+    color: #0066cc;
+}
+
+.compare:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.picture3{
+    width: 100%;
+}
+
+/**MAGSAFE*/
+
+
+.deck{
+    margin-bottom: 0px;
+    padding-top: 48px;
+    padding-bottom: 44px;
+    background-color: white;
+    font-size: 48px;
+    letter-spacing: 0px;
+    line-height: 36px;
+    font-weight: 600;
+    color: #1d1d1f;
+}
+
+.picture4{
+    display: inline-block;
+    height: 687px;
+    float: right;
+}
+
+.mag{
+    font-size: 42px;
+    letter-spacing: 1px;
+    line-height: 36px;
+    font-weight: 500;
+    color: #1d1d1f;
+    margin-top: 220px;
+    margin-left: 250px;
+}
+
+.mag_container{
+    display: inline-block;
+}
+
+.snap{
+    margin-left: 250px;
+    width: 260px;
+    text-align: center;
+    font-weight: 400;
+    color: #1d1d1f;
+    font-size: 22px;
+}
+
+.shop{
+    display: inline-block;
+    text-align: center;
+    margin-left: 350px;
+    color: #0066cc;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.shop:hover{
+    
+    text-decoration: underline;
+    cursor: pointer;
+}
+
